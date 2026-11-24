@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+caballos,caballo1.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+caballos,caballo4.jpg,OK,750,562,224,224,0.0,1.0,APROBADA
+caballos,caballo5.jpg,OK,516,387,224,224,0.0,1.0,APROBADA
+caballos,caballo2.jpg,OK,548,364,224,224,0.0,1.0,APROBADA
+caballos,caballo3.jpg,OK,1280,853,224,224,0.0,0.996,APROBADA
+burro,burro1.jpg,OK,528,378,224,224,0.0,0.988,APROBADA
+burro,burro2.jpg,OK,547,365,224,224,0.0,1.0,APROBADA
+burro,burro3..jpg,OK,603,404,224,224,0.0,1.0,APROBADA
+burro,burro4.jpg,OK,612,408,224,224,0.0,0.965,APROBADA
+burro,burro5.jpg,OK,612,407,224,224,0.0,0.992,APROBADA
